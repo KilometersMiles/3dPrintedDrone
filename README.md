@@ -1,13 +1,16 @@
 # 3dPrintedDrone
 This is a small drone, fully 3d printed frame and custom code
 # Plan & Design
-Frame
+**Frame**
   - Custom designed in onshape
   - About 100mm across
-Flight controller
+
+**Flight controller**
   - Idk yet
-Motors & Props
+
+**Motors & Props**
   - 4 small motors (need to choose)
   - 3d Printed propellers
-Battery
+
+**Battery**
   - Should last for 30 min
