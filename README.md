@@ -6,7 +6,7 @@ This is a small drone, fully 3d printed frame and custom code
   - About 100mm across
 
 **Flight controller**
-  - Idk yet
+  - Custom made from arduino and gyro
 
 **Motors & Props**
   - 4 small motors (need to choose)
