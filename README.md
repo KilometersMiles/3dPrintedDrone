@@ -14,3 +14,11 @@ This is a small drone, fully 3d printed frame and custom code
 
 **Battery**
   - Should last for 30 min
+
+**Code**
+  - Custom PID stabilization
+  - Steering
+  - Macros for take off and landing
+
+**Controller**
+  - Basic RC Control
